@@ -51,7 +51,7 @@ function App() {
           })
         );
       });
-      Promise.all(promises).then(() => {
+      Promise.all(promises).then(() => { 
         setNewPins(pinData);
       });
     }; 

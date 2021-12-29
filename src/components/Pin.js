@@ -15,7 +15,7 @@ function Pin(props) {
 }
 
 export default Pin;
-
+ 
 const Wrapper = styled.div`
     display: inline-felx;
     padding: 8px;

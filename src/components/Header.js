@@ -135,7 +135,7 @@
 
     form {
         display: flex;
-        flex: 1; 
+        flex: 1;  
     }
 
     form > input {
