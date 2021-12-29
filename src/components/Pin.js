@@ -33,6 +33,6 @@ const Container = styled.div`
         width: 100%;
         cursor: zoom-in;
         broder-radius: 16px;
-        object-fit: cover;
+        object-fit: cover; 3
     }
 `

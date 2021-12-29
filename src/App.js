@@ -54,7 +54,7 @@ function App() {
       Promise.all(promises).then(() => {
         setNewPins(pinData);
       });
-    };
+    }; 
 
     useEffect(() => {
       getNewPins();
